@@ -1,5 +1,5 @@
 var random=Math.round(Math.random()*100);
-var live=5;
+var live=10;
 function sub()
 {
     console.log(random);

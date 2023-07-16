@@ -1,11 +1,14 @@
-/* body{
-    background-image: url(./image/key.jpg);
-} */
+
+body{
+    background-image: url(./image/ball.jpg);
+    
+}
     #Guess{
-    border: 2px solid black;
+    /* border: 2px solid rgb(0, 0, 0); */
     width: 400px;
     height: 200px;
-    background-image: url(./image/WiEAk5.jpg);
+    color: rgb(255, 6, 6);
+    /* background-image: url(./image/WiEAk5.jpg); */
     margin-left: 500px;
     margin-top: 250px;
     font-size: 30px;
@@ -17,29 +20,37 @@
     background-image: url(./image/WiEAk5.jpg);
     margin-left: 140px;
     margin-top: 50px;
-    color: rgb(114, 0, 0);
+    color: rgb(212, 255, 0);
     font-size: 30px;
 }
 #con1{
-    border: 2px solid black;
+    /* border: 2px solid rgb(72, 255, 0); */
     width: 500px;
+    font-size: 30px;
     height: 350px;
+    color: rgb(255, 0, 0);
     margin-left: 500px;
     margin-top: 250px;
 }
 #lives{
-    border: 2px solid black;
+    /* border: 2px solid black; */
     width: 170px;
     height: 50px;
-    margin-left: 150px;
+    font-size: 20px;
+    display: flex;
+    /* justify-content: center;
+    align-content: center; */
+    /* padding-top: 5px; */
+    margin-left: 155px;
     background-image: url(./image/WiEAk5.jpg);
     color: khaki;
-    padding-left: 40px;
+    padding-left: 20px;
     margin-top: 10px;
 }
 #input{
     width:90px;
     height: 40px;
+    border-radius: 20px;
     background-image: url(./image/WiEAk5.jpg);
     color: khaki;
     margin-left: 200px;
@@ -48,6 +59,7 @@
 #submit{
     width:100px;
     height: 40px;
+    font-size: 20px;
     background-image: url(./image/WiEAk5.jpg);
     border-radius: 15px;
     color: khaki;
@@ -56,12 +68,12 @@
 }
 #high{
     border: 2px solid black;
-    width: 200px;
+    width: 300px;
     height: 40px;
     background-image: url(./image/WiEAk5.jpg);
     color: khaki;
     /* margin-left: 100px; */
-    margin-left: 100px;
+    margin-left: 70px;
     padding-left: 60px;
     margin-top: 10px;
 }
@@ -69,15 +81,19 @@
     /* border: 2px solid black; */
     margin-left: 500px;
     margin-top: 200px;
+    color: rgb(255, 0, 0);
+    /* background-image: url(./image/WiEAk5.jpg); */
     width: 500px;
     height: 50px;
     font-size: 40px;
 }
 #reset{
     /* margin: 200px; */
-    margin-left: 600px;
+     background-image: url(./image/WiEAk5.jpg);
+     margin-left: 600px;
     margin-top: 150px;
+    font-size: 25px;
     width: 150px;
     height: 50px;
-    color: blue;
+    color: rgb(221, 255, 0);
 }
