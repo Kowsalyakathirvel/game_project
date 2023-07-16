@@ -1,0 +1,83 @@
+/* body{
+    background-image: url(./image/key.jpg);
+} */
+    #Guess{
+    border: 2px solid black;
+    width: 400px;
+    height: 200px;
+    background-image: url(./image/WiEAk5.jpg);
+    margin-left: 500px;
+    margin-top: 250px;
+    font-size: 30px;
+}
+#start{
+    width: 120px;
+    height: 50px;
+    border-radius: 15px;
+    background-image: url(./image/WiEAk5.jpg);
+    margin-left: 140px;
+    margin-top: 50px;
+    color: rgb(114, 0, 0);
+    font-size: 30px;
+}
+#con1{
+    border: 2px solid black;
+    width: 500px;
+    height: 350px;
+    margin-left: 500px;
+    margin-top: 250px;
+}
+#lives{
+    border: 2px solid black;
+    width: 170px;
+    height: 50px;
+    margin-left: 150px;
+    background-image: url(./image/WiEAk5.jpg);
+    color: khaki;
+    padding-left: 40px;
+    margin-top: 10px;
+}
+#input{
+    width:90px;
+    height: 40px;
+    background-image: url(./image/WiEAk5.jpg);
+    color: khaki;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+#submit{
+    width:100px;
+    height: 40px;
+    background-image: url(./image/WiEAk5.jpg);
+    border-radius: 15px;
+    color: khaki;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+#high{
+    border: 2px solid black;
+    width: 200px;
+    height: 40px;
+    background-image: url(./image/WiEAk5.jpg);
+    color: khaki;
+    /* margin-left: 100px; */
+    margin-left: 100px;
+    padding-left: 60px;
+    margin-top: 10px;
+}
+#win,#loss{
+    /* border: 2px solid black; */
+    margin-left: 500px;
+    margin-top: 200px;
+    width: 500px;
+    height: 50px;
+    font-size: 40px;
+}
+#reset{
+    /* margin: 200px; */
+    margin-left: 600px;
+    margin-top: 150px;
+    width: 150px;
+    height: 50px;
+    color: blue;
+}
